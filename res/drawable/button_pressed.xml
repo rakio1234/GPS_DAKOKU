@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- 外枠の幅と色 -->
+    <stroke
+        android:width="2px"
+        android:color="#6BCB34" />
+
+    <!-- 角の丸み -->
+    <corners android:radius="5px" />
+
+    <!-- ボタンの色 -->
+    <solid android:color="#31AD00" />
+
+</shape>

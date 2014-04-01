@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- ボタンが押された時 -->
+    <item android:drawable="@drawable/button_pressed" android:state_pressed="true"/>
+    <!-- 上記以外 -->
+    <item android:drawable="@drawable/button_normal"/>
+
+</selector>
